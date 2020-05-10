@@ -1,1 +1,1 @@
-# 3DPCP_exercises
+# 3DPCP exercises
